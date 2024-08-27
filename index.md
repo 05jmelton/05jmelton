@@ -5,3 +5,8 @@
 let mySchool = "Fort Hays Tech"
 
 ```
+- [] Wake up
+- [] Brush teeth
+- [] Take a shower
+- [] Eat breakfast
+- [] Go to class
